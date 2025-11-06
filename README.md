@@ -48,16 +48,6 @@ Links will be updated as the series goes live!
 
 ---
 
-Perfect 👌 — here’s a **LinkedIn post template** your students can reuse daily to share progress, stay consistent, and tag you for visibility.
-
-It’s designed to:
-
-* Boost engagement & accountability 💪
-* Help the LinkedIn algorithm recognize the #DSAin90Days movement 🚀
-* Encourage others to join and tag you directly ✅
-
----
-
 ## 🧩 **LinkedIn Daily Progress Template (for Students)**
 
 > 📅 **Day [X] / 90 – DSA Patterns Challenge 2025**
